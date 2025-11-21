@@ -1,0 +1,1 @@
+This is by 1st mini project after learning basic of HTML, CSS and JS.
